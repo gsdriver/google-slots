@@ -1,0 +1,40 @@
+{
+  "name": "google-slots",
+  "version": "1.0.0",
+  "description": "Google slot machine",
+  "main": "index.js",
+  "dependencies": {
+    "actions-on-google": "^2.0.0",
+    "bluebird": "^3.5.0",
+    "dashbot": "^9.9.2",
+    "firebase-admin": "^5.12.0",
+    "firebase-functions": "^1.0.2",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.0",
+    "eslint-config-google": "^0.7.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix ./**/*.js *.js",
+    "serve": "firebase serve --only functions",
+    "shell": "firebase experimental:functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsdriver/google-slots.git"
+  },
+  "author": "gsdriver@live.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsdriver/google-slots/issues"
+  },
+  "homepage": "https://github.com/gsdriver/google-slots#readme"
+}
