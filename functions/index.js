@@ -54,8 +54,16 @@ app.intent('Bet', (conv, {Amount}) => {
 exports.dialogflowFirebaseFulfillment = functions.https.onRequest(app);
 
 function createAlexaCall(conv, intentName, slots) {
-  const userId = (conv.user && conv.user.raw && conv.user.raw.userId)
-    ? conv.user.raw.userId : 'UNKNOWN';
+  // First find or generate the user ID
+  let userId;
+  if ('userId' in conv.user.storage) {
+    userId = conv.user.storage.userId;
+  } else {
+    // We need to generate a new user ID
+    userId = 'storage-' + Date.now() + '-' + Math.floor((Math.random() * 1000) + 1);
+    conv.user.storage.userId = userId;
+  }
+
   const lambda = {
     'session': {
       'sessionId': 'SessionId.c88ec34d-28b0-46f6-a4c7-120d8fba8fa7',
