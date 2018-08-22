@@ -1,0 +1,28 @@
+{
+  "id": "73efa751-2a46-49a3-b369-3338532b1e5e",
+  "name": "Rules",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533486091,
+  "fallbackIntent": false,
+  "events": []
+}

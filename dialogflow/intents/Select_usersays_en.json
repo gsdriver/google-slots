@@ -1,0 +1,374 @@
+[
+  {
+    "id": "6443ff0c-d93b-4880-a324-446b8dc1628c",
+    "data": [
+      {
+        "text": "select another game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "17288d32-460b-428d-b19b-4a019376ece5",
+    "data": [
+      {
+        "text": "switch to a different machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "c3dd0a66-5386-440f-ac97-ba93026c9a90",
+    "data": [
+      {
+        "text": "switch to a different game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1533486448
+  },
+  {
+    "id": "25d7059c-0acb-4d42-a916-e43a5e30b289",
+    "data": [
+      {
+        "text": "switch to a new game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "7e8b621f-6e2f-4ba9-957b-b88449d15815",
+    "data": [
+      {
+        "text": "select a different machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "74f56c48-55ce-404f-a83a-b720c3d6d9c4",
+    "data": [
+      {
+        "text": "change to a new machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "5c360940-afa9-418e-a5be-0d702c0ddb95",
+    "data": [
+      {
+        "text": "change to a different game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "c7633d8a-441f-4dfe-8ec7-a0c4544192fd",
+    "data": [
+      {
+        "text": "choose another game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "28a6ad1d-4e4f-4fc3-a700-b788d746c51f",
+    "data": [
+      {
+        "text": "choose a different machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "9c76b8a8-621a-4f03-bff4-f487c8383f08",
+    "data": [
+      {
+        "text": "choose a new machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "9666c3ed-c9fe-48e7-8481-d36cb567038c",
+    "data": [
+      {
+        "text": "change to a different machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "c95fec81-88ff-41fa-9439-eb7d07084984",
+    "data": [
+      {
+        "text": "pick a different game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "38016e1c-1191-4933-923f-72e97e2e4159",
+    "data": [
+      {
+        "text": "choose another machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "3cb1d96b-2dcf-45d5-be03-03a15268b911",
+    "data": [
+      {
+        "text": "pick another machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "3ee49d20-b27a-4104-914a-0076745a048c",
+    "data": [
+      {
+        "text": "select a different game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "812775a1-7c2d-4c61-9519-07e1e29cfca9",
+    "data": [
+      {
+        "text": "pick a different machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "76d2ba76-db04-4d0f-82bb-a1c7f36d2bcd",
+    "data": [
+      {
+        "text": "change machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "dff9a559-8861-4eb6-a410-a3215260228c",
+    "data": [
+      {
+        "text": "switch to a new machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "af04d4d1-8567-43a7-ab02-a0885545b78a",
+    "data": [
+      {
+        "text": "change to a new game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "4bf9bdc8-1b73-4d52-8740-2baa81473feb",
+    "data": [
+      {
+        "text": "pick another game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "bfba351e-88ba-488c-8977-223a01640988",
+    "data": [
+      {
+        "text": "select a new machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "add0fa07-e7b2-4c96-936f-6f1f0214cf1d",
+    "data": [
+      {
+        "text": "switch to another game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "7b37b2ee-93da-4ada-bb9a-65accf43d77e",
+    "data": [
+      {
+        "text": "select another machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "59c73fba-cdcd-41d3-bd59-d97f0bc315a2",
+    "data": [
+      {
+        "text": "switch to another machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "6bf6a19b-e0a5-4980-9ac7-945185161a38",
+    "data": [
+      {
+        "text": "select a new game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "9807d8a9-b590-4726-adc8-748835c8fe98",
+    "data": [
+      {
+        "text": "choose a new game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "1e7a7fc3-4ff9-414e-97ee-c1839fcbab85",
+    "data": [
+      {
+        "text": "change to another machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "72480765-5a34-46a0-b89c-fb5960d28a64",
+    "data": [
+      {
+        "text": "pick a new machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "731b612e-adbc-49c0-bf81-88d8c5e4e9c5",
+    "data": [
+      {
+        "text": "choose a different game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "4f8806e1-fab7-4351-910a-811380ec0b30",
+    "data": [
+      {
+        "text": "pick a new game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  },
+  {
+    "id": "649ab06b-8b21-460c-844e-488c324c6c38",
+    "data": [
+      {
+        "text": "change to another game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533486448
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "53358873-c3ec-4e3d-8dda-b4fb4591c0f0",
+  "name": "HighScore",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533531124,
+  "fallbackIntent": false,
+  "events": []
+}

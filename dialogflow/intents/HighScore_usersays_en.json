@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ac47bc6a-9650-462b-83b8-a31dd860ddb3",
+    "data": [
+      {
+        "text": "say leader board",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533531124
+  },
+  {
+    "id": "9fe86d06-47a5-4fae-95e1-f6aedf817cbc",
+    "data": [
+      {
+        "text": "what are the high scores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533531124
+  },
+  {
+    "id": "25657338-bfc2-4378-9a36-455c2655ab14",
+    "data": [
+      {
+        "text": "read high scores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533531124
+  },
+  {
+    "id": "b960e420-0984-475d-849c-4a6accc49131",
+    "data": [
+      {
+        "text": "say high scores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533531124
+  },
+  {
+    "id": "b3652447-017a-4dc2-942c-47d92b23ad42",
+    "data": [
+      {
+        "text": "read leader board",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533531124
+  },
+  {
+    "id": "b390a1b8-6d9d-4d62-a700-496d7dd0135b",
+    "data": [
+      {
+        "text": "tell me high scores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533531124
+  },
+  {
+    "id": "cd5d2098-7a9d-4648-a915-4dd95b723329",
+    "data": [
+      {
+        "text": "what is the leader board",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533531124
+  }
+]

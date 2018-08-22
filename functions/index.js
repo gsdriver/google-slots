@@ -50,6 +50,28 @@ app.intent('Bet', (conv, {Amount}) => {
   });
 });
 
+// Fallback intent plays the reprompt
+app.intent('Default Fallback Intent', (conv) => {
+  const genericResponse = 'Sorry, I didn\'t get that. What else can I help with?';
+  if (conv.data.temp) {
+    conv.data.temp.fallbackCount = (conv.data.temp.fallbackCount + 1) || 1;
+
+    // Provide two prompts before ending game
+    if (conv.data.temp.fallbackCount < 3) {
+      const response = (conv.data.temp.lastReprompt) ? conv.data.temp.lastReprompt : genericResponse;
+      conv.ask(response);
+    } else {
+      // Force a save through the skill
+      return new Promise((resolve, reject) => {
+        const lambda = createAlexaCall(conv, 'AMAZON.CancelIntent');
+        callAlexa(conv, lambda).then(resolve, reject);
+      });
+    }
+  } else {
+    conv.ask(genericResponse);
+  }
+});
+
 // Set the DialogflowApp object to handle the HTTPS POST request.
 exports.dialogflowFirebaseFulfillment = functions.https.onRequest(app);
 
@@ -127,6 +149,11 @@ function createAlexaCall(conv, intentName, slots) {
         }
       }
     }
+  }
+
+  // If we were counting fallbacks, clear
+  if (conv.data && conv.data.temp) {
+    conv.data.temp.fallbackCount = undefined;
   }
 
   // Do we have Alexa attributes

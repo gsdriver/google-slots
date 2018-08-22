@@ -1,0 +1,35 @@
+{
+  "id": "320f0487-e110-42fa-ac68-f55d3d16e182",
+  "name": "Bet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "00c9bd6f-c1ee-4d8c-9d2e-4f358845def8",
+          "dataType": "@sys.number-integer",
+          "name": "Amount",
+          "value": "$Amount"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533487985,
+  "fallbackIntent": false,
+  "events": []
+}
