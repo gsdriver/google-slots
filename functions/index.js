@@ -22,6 +22,7 @@ const intents = [
   {name: 'Help', intent: 'AMAZON.HelpIntent'},
   {name: 'Yes', intent: 'AMAZON.YesIntent'},
   {name: 'No', intent: 'AMAZON.NoIntent'},
+  {name: 'Cancel', intent: 'AMAZON.CancelIntent'},
   {name: 'Stop', intent: 'AMAZON.StopIntent'},
   {name: 'Next', intent: 'AMAZON.NextIntent'},
   {name: 'HighScore', intent: 'HighScoreIntent'},
